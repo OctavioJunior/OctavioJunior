@@ -42,11 +42,11 @@
     
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviojunior&show_icons=true&theme=tokyonight&text_color=ff0000&locale=en&layout=compact" alt="octaviojunior" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviojunior&show_icons=true&theme=tokyonight&text_color=ff0000&locale=en&layout=compact" alt="octaviojunior" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octaviojunior&show_icons=true&locale=en" alt="octaviojunior" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octaviojunior&show_icons=true&locale=en" alt="octaviojunior" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octaviojunior&theme=dark" alt="octaviojunior" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octaviojunior&theme=dark" alt="octaviojunior" /></p>
 
 <!---
 OctavioJunior/OctavioJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
