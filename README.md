@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Octavio Chagas Jr</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">I am passionate about technology and I am always looking to learn more about this wonderful area.
+I'm a fullstack developer with a focus on ReactJs and NodeJs.
+But always open to new technologies.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=octaviojunior&label=Profile%20views&color=f74040&style=flat" alt="octaviojunior" /> 
