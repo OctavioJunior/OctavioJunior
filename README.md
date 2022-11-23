@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Octavio Chagas Jr</h1>
-<h3 align="center">I am passionate about technology and I am always looking to learn more about this wonderful area.
-I'm a fullstack developer with a focus on ReactJs and NodeJs.
+<h3 align="center">I am passionate about technology and I am always looking to learn more about this wonderful area.</h3>
+<h3 align="center">I'm a fullstack developer with a focus on ReactJs and NodeJs.
 But always open to new technologies.</h3>
 
 <p align="center"> 
