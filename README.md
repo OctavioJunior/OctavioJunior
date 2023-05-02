@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Octavio Chagas Jr</h1>
-<h3 align="center">I am passionate about technology and I am always looking to learn more about this wonderful area.</h3>
-<h3 align="center">I'm a fullstack developer with a focus on ReactJs and NodeJs.
-But always open to new technologies.</h3>
+<h3 align="center">I'm passionate about technology and constantly seeking to learn more about this amazing field.</h3>
+<h3 align="center">As a full-stack developer with a specialization in ReactJS and NodeJS, I'm always open to exploring new technologies and expanding my knowledge.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=octaviojunior&label=Profile%20views&color=f74040&style=flat" alt="octaviojunior" /> 
